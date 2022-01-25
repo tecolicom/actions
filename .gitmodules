@@ -1,6 +1,3 @@
-[submodule "cache-updates"]
-	path = cache-updates
-	url = git@github.com:office-tecoli/actions-cache-updates.git
 [submodule "install-node-modules"]
 	path = install-node-modules
 	url = git@github.com:office-tecoli/actions-install-node-modules.git
