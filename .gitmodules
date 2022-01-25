@@ -13,9 +13,6 @@
 [submodule "brew-tools"]
 	path = brew-tools
 	url = git@github.com:office-tecoli/actions-use-brew-tools.git
-[submodule "cache-installed-files"]
-	path = cache-installed-files
-	url = git@github.com:office-tecoli/actions-cache-installed-files.git
 [submodule "any-tools"]
 	path = any-tools
 	url = git@github.com:office-tecoli/actions-use-any-tools.git
