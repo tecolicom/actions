@@ -16,3 +16,6 @@
 [submodule "any-tools"]
 	path = any-tools
 	url = git@github.com:office-tecoli/actions-use-any-tools.git
+[submodule "install-and-cache"]
+	path = install-and-cache
+	url = git@github.com:office-tecoli/actions-install-and-cache.git
