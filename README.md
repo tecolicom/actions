@@ -19,6 +19,8 @@ If you have request to support other package manager, send an
 
 ### [actions-use-python-tools](https://github.com/office-tecoli/actions-use-python-tools)
 
+### [actions-use-ruby-tools](https://github.com/office-tecoli/actions-use-ruby-tools)
+
 ## single interface
 
 ### [actions-use-any-tools](https://github.com/office-tecoli/actions-use-any-tools)

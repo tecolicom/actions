@@ -19,3 +19,6 @@
 [submodule "install-and-cache"]
 	path = install-and-cache
 	url = git@github.com:office-tecoli/actions-install-and-cache.git
+[submodule "ruby-tools"]
+	path = ruby-tools
+	url = git@github.com:office-tecoli/actions-use-ruby-tools.git
