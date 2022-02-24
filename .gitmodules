@@ -19,3 +19,6 @@
 [submodule "install-node-modules"]
 	path = install-node-modules
 	url = git@github.com:tecoli-com/actions-install-node-modules.git
+[submodule "homebrew-tools"]
+	path = homebrew-tools
+	url = git@github.com:tecoli-com/actions-use-homebrew-tools.git
