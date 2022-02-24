@@ -12,7 +12,7 @@ If you have request to support other package manager, send an
 ### Supporting Tools
 
 - [actions-use-apt-tools](https://github.com/tecoli-com/actions-use-apt-tools)
-- [actions-use-brew-tools](https://github.com/tecoli-com/actions-use-brew-tools)
+- [actions-use-homebrew-tools](https://github.com/tecoli-com/actions-use-homebrew-tools)
 - [actions-use-perl-tools](https://github.com/tecoli-com/actions-use-perl-tools)
 - [actions-use-python-tools](https://github.com/tecoli-com/actions-use-python-tools)
 - [actions-use-ruby-tools](https://github.com/tecoli-com/actions-use-ruby-tools)
