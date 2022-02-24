@@ -4,9 +4,6 @@
 [submodule "apt-tools"]
 	path = apt-tools
 	url = git@github.com:tecoli-com/actions-use-apt-tools.git
-[submodule "brew-tools"]
-	path = brew-tools
-	url = git@github.com:tecoli-com/actions-use-brew-tools.git
 [submodule "perl-tools"]
 	path = perl-tools
 	url = git@github.com:tecoli-com/actions-use-perl-tools.git
