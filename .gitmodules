@@ -22,3 +22,6 @@
 [submodule "homebrew-tools"]
 	path = homebrew-tools
 	url = git@github.com:tecoli-com/actions-use-homebrew-tools.git
+[submodule "install-and-archive"]
+	path = install-and-archive
+	url = git@github.com:tecoli-com/actions-install-and-archive.git
