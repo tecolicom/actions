@@ -14,7 +14,7 @@ For example, brew package tool can be installed as simple as this:
     tools: rcs
 ```
 
-You can replase `homebrew` and `tools` part to any other package.
+You can replace `homebrew` and `tools` part to any other package.
 Specified tools are installed at the first time.  As for later
 execution, cached files are extracted from the archive if any other
 environment is not changed.
