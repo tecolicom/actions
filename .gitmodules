@@ -1,6 +1,12 @@
-[submodule "any-tools"]
-	path = any-tools
-	url = git@github.com:tecoli-com/actions-use-any-tools.git
+[submodule "install-and-archive"]
+	path = install-and-archive
+	url = git@github.com:tecoli-com/actions-install-and-archive.git
+[submodule "install-and-cache"]
+	path = install-and-cache
+	url = git@github.com:tecoli-com/actions-install-and-cache.git
+[submodule "install-node-modules"]
+	path = install-node-modules
+	url = git@github.com:tecoli-com/actions-install-node-modules.git
 [submodule "apt-tools"]
 	path = apt-tools
 	url = git@github.com:tecoli-com/actions-use-apt-tools.git
@@ -13,15 +19,9 @@
 [submodule "ruby-tools"]
 	path = ruby-tools
 	url = git@github.com:tecoli-com/actions-use-ruby-tools.git
-[submodule "install-and-cache"]
-	path = install-and-cache
-	url = git@github.com:tecoli-com/actions-install-and-cache.git
-[submodule "install-node-modules"]
-	path = install-node-modules
-	url = git@github.com:tecoli-com/actions-install-node-modules.git
 [submodule "homebrew-tools"]
 	path = homebrew-tools
 	url = git@github.com:tecoli-com/actions-use-homebrew-tools.git
-[submodule "install-and-archive"]
-	path = install-and-archive
-	url = git@github.com:tecoli-com/actions-install-and-archive.git
+[submodule "any-tools"]
+	path = any-tools
+	url = git@github.com:tecoli-com/actions-use-any-tools.git
